@@ -9,7 +9,7 @@ import './assets/stylesheets/style.css';
 
 const Hello = () => (
   <div>
-    <h1>Hello World!</h1>
+    <h1>Moi!</h1>
     <h2>This is my first time using docker.</h2>
   </div>
 );
